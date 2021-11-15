@@ -1,4 +1,4 @@
-package com.ehab.imagecompression;
+package com.ehab.networkFramework;
 
 import androidx.appcompat.app.AppCompatActivity;
 

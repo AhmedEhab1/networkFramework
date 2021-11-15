@@ -1,4 +1,4 @@
-package com.ehab.imagecompression;
+package com.ehab.networkFramework;
 
 import org.junit.Test;
 

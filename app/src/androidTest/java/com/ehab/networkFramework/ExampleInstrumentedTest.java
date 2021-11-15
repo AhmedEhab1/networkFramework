@@ -1,4 +1,4 @@
-package com.ehab.imagecompression;
+package com.ehab.networkFramework;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.ehab.imagecompression.test", appContext.getPackageName());
+        assertEquals("com.ehab.imagecompression", appContext.getPackageName());
     }
 }
